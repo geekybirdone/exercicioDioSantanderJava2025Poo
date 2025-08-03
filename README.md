@@ -23,7 +23,7 @@ Criar notação UML para implementação das funções do Iphone, a saber:
 ![Notação UML Iphone](./Images/Iphone.drawio.png "Notação UML Iphone")
 
 ## Organização do Projeto
-O projeto estpa organizado da seguinte forma:
+O projeto está organizado da seguinte forma:
 
 - Interfaces:
 
